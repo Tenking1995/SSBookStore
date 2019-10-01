@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">SSBookStore</string>
+    <string name="ss_bookstore">SS BookStore</string>
+    <string name="create_new">Create New</string>
+</resources>
